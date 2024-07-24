@@ -12,4 +12,4 @@
 
 **Current Project** : Early Detection of Mild Cognitive Impairment (MCI). 
 
-Working on state-of-the-art Deep Learning Techniques for my Research Project in Healthcare domain
+Working on state-of-the-art Deep Learning Techniques for my Research Project in Healthcare domain.
