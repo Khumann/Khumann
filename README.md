@@ -10,6 +10,6 @@
 
 **Currently studying** : Master's of Data Science @ Swansea University, United Kingdom
 
-**Current Project** : Early Detection of Mild Cognitive Impairment (MCI). 
+**Current Project** : Early Detection of Alzheimer(AD). 
 
 Working on state-of-the-art Deep Learning Techniques for my Research Project in Healthcare domain.
