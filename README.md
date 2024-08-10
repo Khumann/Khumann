@@ -8,7 +8,7 @@
 
 **Experience** : Data Analyst @ GlobalLogic 
 
-**Currently studying** : Master's of Data Science @ Swansea University, United Kingdom
+**Currently studying** : Master's of Data Science @ Swansea University, United Kingdom.
 
 **Current Project** : Early Detection of Alzheimer(AD). 
 
