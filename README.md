@@ -12,4 +12,4 @@
 
 **Current Project** : Early Detection of Alzheimer(AD).
 
-Working on state-of-the-art Deep Learning Techniques for my Research Project in Healthcare domain.
+Working on state-of-the-art Deep Learning Techniques for my Research Project in Healthcare domain
